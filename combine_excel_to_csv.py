@@ -1,6 +1,6 @@
 import pandas as pd
 
-path = 'dev/dfsdfsf'
+path = 'dev/'
 
 files = ['Approval_Or_Provisioning_juin.xlsx','Approval_Or_Provisioning_mai.xlsx']
 
